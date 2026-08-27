@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Lucas Eduardo 👋
 
-<!--
-**lucasedglima/lucasedglima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at UNIFEI, focused on Data, Artificial Intelligence and Software Development.
 
-Here are some ideas to get you started:
+I have experience with full-stack development, project management and practical applications involving Python, SQL, Machine Learning, React and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am strengthening my skills in Data Science, AI and software engineering while building projects that connect technical development with real-world problems.
+
+---
+
+# Olá, eu sou Lucas Eduardo 👋
+
+Estudante de Engenharia de Computação na UNIFEI, com foco em Dados, Inteligência Artificial e Desenvolvimento de Software.
+
+Tenho experiência com desenvolvimento full-stack, gerenciamento de projetos e aplicações práticas envolvendo Python, SQL, Machine Learning, React e TypeScript.
+
+Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados, IA e engenharia de software, desenvolvendo projetos que conectam tecnologia à resolução de problemas reais.
