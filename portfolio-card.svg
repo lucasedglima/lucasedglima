@@ -1,0 +1,85 @@
+<svg width="820" height="170" viewBox="0 0 820 170" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .card {
+      fill: #ffffff;
+      stroke: #d0d7de;
+    }
+
+    .title {
+      fill: #1f2328;
+      font: 600 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    .label {
+      fill: #656d76;
+      font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      letter-spacing: 1.5px;
+    }
+
+    .description {
+      fill: #656d76;
+      font: 400 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    .tech {
+      fill: #0969da;
+      font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    .arrow {
+      fill: #656d76;
+      font: 500 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .card {
+        fill: #0d1117;
+        stroke: #30363d;
+      }
+
+      .title {
+        fill: #f0f6fc;
+      }
+
+      .label,
+      .description,
+      .arrow {
+        fill: #8b949e;
+      }
+
+      .tech {
+        fill: #58a6ff;
+      }
+    }
+  </style>
+
+  <rect class="card"
+        x="1"
+        y="1"
+        width="818"
+        height="168"
+        rx="12"/>
+
+  <text class="label" x="28" y="36">
+    PORTFOLIO
+  </text>
+
+  <text class="arrow" x="766" y="42">
+    ↗
+  </text>
+
+  <text class="title" x="28" y="72">
+    Lucas Eduardo
+  </text>
+
+  <text class="description" x="28" y="101">
+    Projects, experience and technical background
+  </text>
+
+  <text class="tech" x="28" y="139">
+    Data  •  AI  •  Software Development
+  </text>
+
+</svg>
