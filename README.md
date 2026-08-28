@@ -16,6 +16,11 @@ Tenho experiência com desenvolvimento full-stack, gerenciamento de projetos e a
 
 Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados, IA e engenharia de software, desenvolvendo projetos que conectam tecnologia à resolução de problemas reais.
 
+<p>
+  <a href="https://portifolio-lucasedglima.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
