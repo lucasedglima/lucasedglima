@@ -22,64 +22,69 @@ Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados, IA e eng
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Languages</strong>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" title="Python" alt="Python"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="32" title="SQL" alt="SQL"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" title="JavaScript" alt="JavaScript"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" title="TypeScript" alt="TypeScript"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32" title="C" alt="C"/>
-    </td>
+## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-    <td valign="top" width="50%">
-      <strong>Data & AI</strong>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="32" title="Pandas" alt="Pandas"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="32" title="NumPy" alt="NumPy"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="32" title="Scikit-learn" alt="Scikit-learn"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="32" title="Jupyter" alt="Jupyter"/>
-    </td>
-  </tr>
+<div style="display: inline-block; vertical-align: top; width: 48%;">
 
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Web & Backend</strong>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" title="React" alt="React"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="32" title="Angular" alt="Angular"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" title="Node.js" alt="Node.js"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="32" title="Fastify" alt="Fastify"/>
-    </td>
+**Languages**
 
-    <td valign="top" width="50%">
-      <strong>Databases & Tools</strong>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL" alt="PostgreSQL"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB" alt="MongoDB"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="32" title="Prisma" alt="Prisma"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" title="Git" alt="Git"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" title="GitHub" alt="GitHub"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" title="Docker" alt="Docker"/>
-      &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" title="VS Code" alt="VS Code"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" title="Python" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="32" title="SQL" alt="SQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" title="JavaScript" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" title="TypeScript" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32" title="C" alt="C"/>
+</p>
+
+**Web & Backend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" title="React" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="32" title="Angular" alt="Angular"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" title="Node.js" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="32" title="Fastify" alt="Fastify"/>
+</p>
+
+</div>
+
+<div style="display: inline-block; vertical-align: top; width: 48%;">
+
+**Data & AI**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="32" title="Pandas" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="32" title="NumPy" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="32" title="Scikit-learn" alt="Scikit-learn"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="32" title="Jupyter" alt="Jupyter"/>
+</p>
+
+**Databases & Tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB" alt="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="32" title="Prisma" alt="Prisma"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" title="Git" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" title="GitHub" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" title="Docker" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" title="VS Code" alt="VS Code"/>
+</p>
+
+</div>
