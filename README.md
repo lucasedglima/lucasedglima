@@ -17,7 +17,7 @@ Tenho experiência com desenvolvimento full-stack, gerenciamento de projetos e a
 Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados, IA e engenharia de software, desenvolvendo projetos que conectam tecnologia à resolução de problemas reais.
 
 <a href="https://portifolio-lucasedglima.vercel.app/">
-  <img src="./assets/portfolio-card.svg" width="100%" alt="Lucas Eduardo Portfolio"/>
+  <img src="./portfolio-card.svg" width="100%" alt="Lucas Eduardo Portfolio"/>
 </a>
 
 ## 🛠️ Tech Stack
