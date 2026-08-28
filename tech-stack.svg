@@ -1,0 +1,95 @@
+<svg width="820" height="210" viewBox="0 0 820 210" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .category {
+      fill: #1f2328;
+      font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    .tech {
+      fill: #656d76;
+      font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .category {
+        fill: #f0f6fc;
+      }
+
+      .tech {
+        fill: #8b949e;
+      }
+    }
+  </style>
+
+  <!-- LEFT COLUMN -->
+
+  <text class="category" x="10" y="22">Languages</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+         x="10" y="38" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+         x="58" y="38" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+         x="106" y="38" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+         x="154" y="38" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+         x="202" y="38" width="32" height="32"/>
+
+  <text class="category" x="10" y="117">Web &amp; Backend</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+         x="10" y="133" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+         x="58" y="133" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+         x="106" y="133" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg"
+         x="154" y="133" width="32" height="32"/>
+
+
+  <!-- RIGHT COLUMN -->
+
+  <text class="category" x="420" y="22">Data &amp; AI</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+         x="420" y="38" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+         x="468" y="38" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+         x="516" y="38" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+         x="564" y="38" width="32" height="32"/>
+
+  <!-- Power BI -->
+  <image href="https://cdn.simpleicons.org/powerbi/F2C811"
+         x="612" y="38" width="32" height="32"/>
+
+
+  <text class="category" x="420" y="117">Databases &amp; Tools</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+         x="420" y="133" width="32" height="32"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+         x="468" y="133" width="32" height="32"/>
+
+  <!-- Prisma: light/dark aware -->
+  <image class="prisma-light"
+         href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
+         x="516" y="133" width="32" height="32"/>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+         x="564" y="133" width="32" height="32"/>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+         x="612" y="133" width="32" height="32"/>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+         x="660" y="133" width="32" height="32"/>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+         x="708" y="133" width="32" height="32"/>
+
+</svg>
