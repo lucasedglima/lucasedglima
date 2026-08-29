@@ -23,3 +23,14 @@ Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados, IA e eng
 ## 🛠️ Tech Stack
 
 <img src="./tech-stack.svg" width="100%" alt="Lucas Eduardo Tech Stack"/>
+
+## 🚀 Featured Projects
+
+<img src="./featured-projects.svg" width="100%" alt="Lucas Eduardo Featured Projects"/>
+
+<p align="center">
+  <a href="https://github.com/lucasedglima/netflix-machine-learning">Netflix Machine Learning</a> ·
+  <a href="https://github.com/lucasedglima/da-roca">Da Roça</a> ·
+  <a href="https://github.com/lucasedglima/custom-language-compiler">Custom Language Compiler</a> ·
+  <a href="https://github.com/lucasedglima/tcp-chat-nodejs">TCP Chat Node.js</a>
+</p>
