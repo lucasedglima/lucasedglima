@@ -20,17 +20,27 @@ Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados, IA e eng
   <img src="./portfolio-card.svg" width="100%" alt="Lucas Eduardo Portfolio"/>
 </a>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <img src="./tech-stack.svg" width="100%" alt="Lucas Eduardo Tech Stack"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<img src="./featured-projects.svg" width="100%" alt="Lucas Eduardo Featured Projects"/>
-
-<p align="center">
-  <a href="https://github.com/lucasedglima/netflix-machine-learning">Netflix Machine Learning</a> ·
-  <a href="https://github.com/lucasedglima/da-roca">Da Roça</a> ·
-  <a href="https://github.com/lucasedglima/custom-language-compiler">Custom Language Compiler</a> ·
-  <a href="https://github.com/lucasedglima/tcp-chat-nodejs">TCP Chat Node.js</a>
-</p>
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/lucasedglima/netflix-machine-learning"><img src="./featured-netflix.svg" width="100%" alt="Netflix Machine Learning"/></a>
+</td>
+<td width="50%">
+<a href="https://github.com/lucasedglima/da-roca"><img src="./featured-da-roca.svg" width="100%" alt="Da Roça"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/lucasedglima/custom-language-compiler"><img src="./featured-compiler.svg" width="100%" alt="Custom Language Compiler"/></a>
+</td>
+<td width="50%">
+<a href="https://github.com/lucasedglima/tcp-chat-nodejs"><img src="./featured-tcp.svg" width="100%" alt="TCP Chat Node.js"/></a>
+</td>
+</tr>
+</table>
